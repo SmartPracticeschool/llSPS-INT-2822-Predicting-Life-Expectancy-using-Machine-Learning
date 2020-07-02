@@ -6,3 +6,6 @@ It is a github repository for the internship provided by smartbridge on their pl
 4. Life Expectancy Prediction jupyter notebook.
 5. Project Kickoff task list with screenshots.
 6. Project Report.
+7. Project Demonstration video.
+8. Project feedback video.
+
