@@ -8,4 +8,6 @@ It is a github repository for the internship provided by smartbridge on their pl
 6. Project Report.
 7. Project Demonstration video.
 8. Project feedback video.
+9. AutoAI notebook ipynb.
+10. AutoAI WML notebook.
 
